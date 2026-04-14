@@ -64,6 +64,6 @@
 
 ###
 
-<h3 align="left">Actualmente estudiando: Ciencias computacionales, Analisis de datos y Bajo nivel</h3>
+<h3 align="left">Actualmente estudiando: Sistemas de automatizacion, LLMs</h3>
 
 ###
