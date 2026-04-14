@@ -1,4 +1,4 @@
-<h2 align="left">Hola, soy Gabriel Solotorevsky (Desarrollador opinionado).</h2>
+<h2 align="left">Hola, soy Gabriel Solotorevsky.</h2>
 
 ###
 
