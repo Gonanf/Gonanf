@@ -1,52 +1,7 @@
-# Gonanf
+<p align="center">
+  <img src="assets/banner.png" alt="Gabriel Solotorevsky" width="100%">
+</p>
 
-> Proyecto de Gonanf — colección personal.
-> **Lenguaje principal (GitHub):** — · **URL:** https://github.com/Gonanf/Gonanf
-
-## Qué es
-
-Este repositorio forma parte de la colección de **Gonanf / Gabriel Solotorevsky** clonada en `/run/media/chaos/terciario/proyectos/Gonanf`.
-
-> **Nota:** README original preservado abajo en la sección "README original".
-
-- **Path absoluto:** `/run/media/chaos/terciario/proyectos/Gonanf`
-- **Estado git:** último commit `2026-04-14 Update README.md`
-- **Archivos (aprox):** 31
-- **Stack detectado:** Sin stack detectado (repo vacío o estático)
-
-## Stack
-
-- Sin stack detectado (repo vacío o estático)
-
-## Estructura
-
-```
-Gonanf/
-README.md
-```
-
-## Cómo correr
-
-> Instrucciones genéricas según el stack detectado. Ajustar según el repo.
-
-Revisar archivos en la raíz (index.html, Makefile, scripts) y abrir/ejectuar según corresponda.
-Sin entrypoint estándar detectado — ver sección Estructura.
-
-## Estado
-
-- **Último commit:** `2026-04-14 Update README.md`
-- **Clonado en:** `/run/media/chaos/terciario/proyectos/Gonanf`
-- **Exclusiones del lote:** Forks, Workmatch, el-hornero-digital, mali/meli, Sherut (no tocados por consigna)
-
-## Docs
-
-- `docs/overview.md` — descripción extendida y guía rápida (generado en este lote)
-
-## README original (preservado)
-
-> Contenido previo de README.md recortado a 2000 chars para referencia:
-
-```markdown
 <h2 align="left">Hola, soy Gabriel Solotorevsky.</h2>
 
 ###
@@ -71,9 +26,48 @@ Sin entrypoint estándar detectado — ver sección Estructura.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="pytho
-```
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+</div>
 
----
-*README generado/mejorado automáticamente el 2026-09-04 con inspección de repo (opencode/agy pattern: lectura de estructura, lenguaje y entrypoints). No se modificó código, solo documentación.*
-*Autor original: Gonanf — https://github.com/Gonanf/Gonanf*
+###
+
+<div align="left">
+  <a href="solotorevskygabriel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-solotorevsky-35524431b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gonanf/Gonanf/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">Actualmente estudiando: Sistemas de automatizacion, LLMs</h3>
+
+###
